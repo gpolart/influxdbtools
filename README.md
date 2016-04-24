@@ -1,6 +1,6 @@
-# infludbtools
+# influxdbtools
 
-Some tools to put data in InfluxDB from differents sources
+Some tools to put data in InfluxDB from different sources
 
 ## NAS Synology
 
